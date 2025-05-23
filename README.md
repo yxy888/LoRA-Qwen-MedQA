@@ -13,12 +13,15 @@ Fine-tuning the QWen model for Chinese question answering.
 pip install -r requirements.txt
 ```
 ### 2.启动训练（LoRA微调）
+```
 bash
 python train.py
+```
 ### 3.启动问答系统（Gradio页面）
+```
 bash
 python app.py
-
+```
 ## 项目结构
 LoRA-Qwen-MedQA/
 ├── README.md             # 项目说明文档
