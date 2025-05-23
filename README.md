@@ -11,6 +11,7 @@ Fine-tuning the QWen model for Chinese question answering.
 ### 1.安装依赖
 ```bash
 pip install -r requirements.txt
+```
 ### 2.启动训练（LoRA微调）
 bash
 python train.py
