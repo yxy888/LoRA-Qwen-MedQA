@@ -23,6 +23,8 @@ bash
 python app.py
 ```
 ## 项目结构
+```
+bash
 LoRA-Qwen-MedQA/
 ├── README.md             # 项目说明文档
 ├── train.py              # LoRA 训练脚本
@@ -34,11 +36,12 @@ LoRA-Qwen-MedQA/
 ├── checkpoints/          # 模型保存路径
 └── results/
     └── loss_curve.png    # 训练过程图
-
+```
 ## 实验结果
-
+## 在线演示
 
 ## 联系方式
+
 作者：闫晓莹
 邮箱：2765532139@qq.com
   
